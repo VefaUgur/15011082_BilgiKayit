@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bilgi-Kayit</string>
+    <string name="kullanici">Kullanıcı Adı:</string>
+    <string name="sifre">Şifre:</string>
+    <string name="baslik">Bilgi-Kayıt Sistemi</string>
+    <string name="name">İsim</string>
+    <string name="surname">Soyisim</string>
+    <string name="tcno">Tc Kimlik No</string>
+    <string name="tel">Tel. No </string>
+    <string name="Email">E-mail</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="resim">Resim Yükle</string>
+    <string name="Clear">Temizle</string>
+    <string name="giris">Giriş Yap</string>
+    <string name="DersListele">Ders Listele</string>
+    <string name="Sayi">Öğrenci Sayısı:</string>
+    <string name="Ort">Not Ortalaması:</string>
+
+</resources>
